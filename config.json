@@ -1,0 +1,12 @@
+{
+  "devMode": "false",
+  "advancedMode": "false",
+  "language": "en-US",
+  "repository": [
+    "nhentai_downloader",
+    "keylogger",
+    "nhentai.xxx",
+    "face_recognition_using_opencv-python",
+    "deep-live-cam"
+  ]
+}
