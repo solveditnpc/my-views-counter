@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/solveditnpc/my-views-counter)
 
-### :octocat: [nhentai.xxx](https://github.com/solveditnpc/nhentai.xxx)
-![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/908704969/large/year.png)
+### :octocat: [keylogger-python](https://github.com/solveditnpc/keylogger-python)
+![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/915723615/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>11</code>
+			<code>5</code>
 		</td>
 		<td>
-			<code>34</code>
+			<code>29</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>57</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/908704969/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/908704969/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/915723615/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915723615/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/908704969/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/908704969/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/915723615/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915723615/week.md)
 ```
 ### Header
-# nhentai.xxx [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/908704969/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/908704969/year.md)
+# keylogger-python [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/915723615/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915723615/year.md)
 ```readme
-# nhentai.xxx [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/908704969/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/908704969/year.md)
+# keylogger-python [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/915723615/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915723615/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
