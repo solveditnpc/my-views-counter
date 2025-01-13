@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/solveditnpc/my-views-counter)
 
-### :octocat: [deep-live-cam](https://github.com/solveditnpc/deep-live-cam)
-![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/847375776/large/year.png)
+### :octocat: [security-against-unauthorised-users](https://github.com/solveditnpc/security-against-unauthorised-users)
+![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/915788560/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>52</code>
+			<code>24</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/847375776/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/847375776/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/915788560/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915788560/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/847375776/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/847375776/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/915788560/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915788560/week.md)
 ```
 ### Header
-# deep-live-cam [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/847375776/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/847375776/year.md)
+# security-against-unauthorised-users [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/915788560/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915788560/year.md)
 ```readme
-# deep-live-cam [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/847375776/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/847375776/year.md)
+# security-against-unauthorised-users [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/915788560/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915788560/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
