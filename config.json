@@ -9,6 +9,7 @@
     "face_recognition_using_opencv-python",
     "deep-live-cam",
     "keylogger-python",
-    "security-against-unauthorised-users"
+    "security-against-unauthorised-users",
+    "my-views-counter"
   ]
 }
