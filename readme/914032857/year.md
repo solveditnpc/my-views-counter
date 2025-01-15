@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/solveditnpc/my-views-counter)
 
-### :octocat: [keylogger-python](https://github.com/solveditnpc/keylogger-python)
-![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/915723615/large/year.png)
+### :octocat: [my-views-counter](https://github.com/solveditnpc/my-views-counter)
+![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/914032857/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>8</code>
 		</td>
 		<td>
-			<code>48</code>
+			<code>125</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/915723615/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915723615/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/914032857/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/914032857/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/915723615/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915723615/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/914032857/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/914032857/week.md)
 ```
 ### Header
-# keylogger-python [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/915723615/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915723615/year.md)
+# my-views-counter [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/914032857/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/914032857/year.md)
 ```readme
-# keylogger-python [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/915723615/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/915723615/year.md)
+# my-views-counter [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/914032857/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/914032857/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
