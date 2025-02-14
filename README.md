@@ -147,9 +147,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/914032857/small/year.png" height="20"> 145
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/solveditnpc/my-views-counter/tree/master/readme/930756173/year.md">
+				Kokoro-82M-audiobooks
+			</a>
+		</td>
+		<td>
+			2025/2/11 12:00 AM UTC
+		</td>
+		<td>
+			8
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/930756173/small/year.png" height="20"> 37
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/2/14 1:23 AM UTC</i></small>
+<small><i>Last updated on 2025/2/14 6:26 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

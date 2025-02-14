@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/solveditnpc/my-views-counter)
 
-### :octocat: [nhentai.xxx](https://github.com/solveditnpc/nhentai.xxx)
-![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/908704969/large/year.png)
+### :octocat: [Kokoro-82M-audiobooks](https://github.com/solveditnpc/Kokoro-82M-audiobooks)
+![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/930756173/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>8</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>37</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>28</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>49</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/12/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>48</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/2/14 6:25 AM UTC</i></small>
+<small><i>Last updated on 2025/2/14 6:26 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/908704969/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/908704969/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/930756173/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/930756173/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/908704969/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/908704969/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/930756173/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/930756173/week.md)
 ```
 ### Header
-# nhentai.xxx [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/908704969/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/908704969/year.md)
+# Kokoro-82M-audiobooks [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/930756173/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/930756173/year.md)
 ```readme
-# nhentai.xxx [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/908704969/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/908704969/year.md)
+# Kokoro-82M-audiobooks [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/930756173/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/930756173/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
