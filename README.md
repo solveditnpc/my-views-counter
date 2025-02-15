@@ -163,9 +163,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/930756173/small/year.png" height="20"> 42
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/solveditnpc/my-views-counter/tree/master/readme/933059320/year.md">
+				zonos-audiobook
+			</a>
+		</td>
+		<td>
+			2025/2/12 6:25 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/933059320/small/year.png" height="20"> 10
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/2/15 1:22 AM UTC</i></small>
+<small><i>Last updated on 2025/2/15 6:25 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
