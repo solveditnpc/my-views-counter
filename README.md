@@ -179,9 +179,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/933059320/small/year.png" height="20"> 260
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/solveditnpc/my-views-counter/tree/master/readme/940669143/year.md">
+				home-automation
+			</a>
+		</td>
+		<td>
+			2025/3/11 12:37 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/940669143/small/year.png" height="20"> 41
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/14 6:27 AM UTC</i></small>
+<small><i>Last updated on 2025/3/14 12:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

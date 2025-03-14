@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/solveditnpc/my-views-counter)
 
-### :octocat: [my-views-counter](https://github.com/solveditnpc/my-views-counter)
-![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/914032857/large/year.png)
+### :octocat: [home-automation](https://github.com/solveditnpc/home-automation)
+![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/940669143/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>37</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>4</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2025/1/1</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>111</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/914032857/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/914032857/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/940669143/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/940669143/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/914032857/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/914032857/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/940669143/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/940669143/week.md)
 ```
 ### Header
-# my-views-counter [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/914032857/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/914032857/year.md)
+# home-automation [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/940669143/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/940669143/year.md)
 ```readme
-# my-views-counter [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/914032857/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/914032857/year.md)
+# home-automation [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/940669143/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/940669143/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
