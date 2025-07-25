@@ -1,7 +1,7 @@
 ## [🔙 my-views-counter](https://github.com/solveditnpc/my-views-counter)
 
-### :octocat: [Kokoro-82M-audiobooks](https://github.com/solveditnpc/Kokoro-82M-audiobooks)
-![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/930756173/large/year.png)
+### :octocat: [manga-translator](https://github.com/solveditnpc/manga-translator)
+![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/graph/1015920013/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/7/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>26</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>214</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2025/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>10</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2025/5/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>22</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>18</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>73</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2025/2/1</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>21</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/930756173/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/930756173/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/1015920013/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/1015920013/week.md)
 ```readme
-[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/930756173/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/930756173/week.md)
+[![Image of my-views-counter](https://github.com/solveditnpc/my-views-counter/blob/master/svg/1015920013/badge.svg)](https://github.com/solveditnpc/my-views-counter/blob/master/readme/1015920013/week.md)
 ```
 ### Header
-# Kokoro-82M-audiobooks [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/930756173/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/930756173/year.md)
+# manga-translator [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/1015920013/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/1015920013/year.md)
 ```readme
-# Kokoro-82M-audiobooks [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/930756173/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/930756173/year.md)
+# manga-translator [<img alt="Image of my-views-counter" src="https://github.com/solveditnpc/my-views-counter/blob/master/graph/1015920013/small/year.png" height="20">](https://github.com/solveditnpc/my-views-counter/blob/master/readme/1015920013/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

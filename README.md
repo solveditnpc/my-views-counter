@@ -195,9 +195,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/940669143/small/year.png" height="20"> 167
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/solveditnpc/my-views-counter/tree/master/readme/1015920013/year.md">
+				manga-translator
+			</a>
+		</td>
+		<td>
+			2025/7/22 6:35 AM UTC
+		</td>
+		<td>
+			26
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/1015920013/small/year.png" height="20"> 214
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/25 1:55 AM UTC</i></small>
+<small><i>Last updated on 2025/7/25 6:35 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
