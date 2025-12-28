@@ -14,6 +14,7 @@
     "Kokoro-82M-audiobooks",
     "zonos-audiobook",
     "home-automation",
-    "manga-translator"
+    "manga-translator",
+    "manga-server"
   ]
 }
