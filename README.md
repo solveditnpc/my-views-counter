@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:50 AM UTC
+			2025/12/27 1:47 AM UTC
 		</td>
 		<td>
 			275
@@ -42,13 +42,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 12:00 AM UTC
+			2025/12/27 12:00 AM UTC
 		</td>
 		<td>
-			815
+			816
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/912187071/small/year.png" height="20"> 1684
+			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/912187071/small/year.png" height="20"> 1685
 		</td>
 	</tr>
 	<tr>
@@ -58,13 +58,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 12:00 AM UTC
+			2025/12/27 12:00 AM UTC
 		</td>
 		<td>
-			797
+			800
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/908704969/small/year.png" height="20"> 1003
+			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/908704969/small/year.png" height="20"> 1007
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:50 AM UTC
+			2025/12/27 1:48 AM UTC
 		</td>
 		<td>
 			57
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:50 AM UTC
+			2025/12/27 1:48 AM UTC
 		</td>
 		<td>
 			128
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:50 AM UTC
+			2025/12/27 1:48 AM UTC
 		</td>
 		<td>
 			73
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:50 AM UTC
+			2025/12/27 1:48 AM UTC
 		</td>
 		<td>
 			55
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:50 AM UTC
+			2025/12/27 1:48 AM UTC
 		</td>
 		<td>
 			76
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:51 AM UTC
+			2025/12/27 1:48 AM UTC
 		</td>
 		<td>
 			111
@@ -170,7 +170,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:51 AM UTC
+			2025/12/27 1:49 AM UTC
 		</td>
 		<td>
 			166
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:51 AM UTC
+			2025/12/27 1:49 AM UTC
 		</td>
 		<td>
 			32
@@ -202,18 +202,34 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2025/12/26 1:51 AM UTC
+			2025/12/27 12:00 AM UTC
 		</td>
 		<td>
-			136
+			137
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/1015920013/small/year.png" height="20"> 455
+			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/1015920013/small/year.png" height="20"> 456
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/solveditnpc/my-views-counter/tree/master/readme/1030598962/year.md">
+				manga-server
+			</a>
+		</td>
+		<td>
+			2025/12/26 2:01 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/solveditnpc/my-views-counter/raw/master/graph/1030598962/small/year.png" height="20"> 21
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/28 6:33 PM UTC</i></small>
+<small><i>Last updated on 2025/12/29 2:01 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
